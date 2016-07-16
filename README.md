@@ -7,4 +7,5 @@ German_credit.R and .py were designed to assemble and study the German_credit da
 https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data). The codes use the German.doc to pull out the headers and
 encoded variables then assembles the dataset as a dataframe.
 
-#
+#MySQLcon
+Estabilishes a connection with a local MySQL server and returns a SQL query as a dataframe.
